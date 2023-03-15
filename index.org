@@ -356,6 +356,10 @@ Not that much happening right now as I am stuck at work. I did manage to do a Ge
 trips much better. My new colleaue might take all those night shifts, so there is a slight chance of me being a daily guy again :-D
 But of course, I am trying to be realistic about it and wait for the actual result.
 
+*** *March 15*
+
+I have changed my emacs theme to ef-themes (by Prot) in the Autumn colors, pretty nice and warm tones, earthy. Pleasant to look at.
+
 * *Contacts*
 
 Electronic mail: pkotrcka (at) vivaldi (dot) net
